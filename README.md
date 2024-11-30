@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.instagram.com/darkrinmson" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="arsanov2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.instagram.com/darkrinmson" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="arsanov2003@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/darkrinmson" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Hi, I'm a passionate software developer specializing in Flutter for mobile app development and Python for backend solutions. I love building seamless user experiences and solving complex problems with clean, efficient code. Always eager to learn and contribute to open-source projects!</h3>**
 
