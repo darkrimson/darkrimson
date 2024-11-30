@@ -19,10 +19,4 @@
 
 <table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="32" alt="Dart"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase"/></td></table>
 
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
 
