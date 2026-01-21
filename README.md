@@ -28,7 +28,7 @@
 
 ### 📫 Contacts
 
-- 📬 Email: [arsanov2003@gmail.com](mailto:arsanov2003@yandex.ru)
+- 📬 Email: [arsanov2003@yandex.ru](mailto:arsanov2003@yandex.ru)
 - 💬 Telegram: [@darkrimson](https://t.me/darkrimson)
 
 
